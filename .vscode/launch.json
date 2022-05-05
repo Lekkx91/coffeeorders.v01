@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CoffeeOrdersApplication<coffeeorders>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.codecademy.coffeeorders.CoffeeOrdersApplication",
+            "projectName": "coffeeorders",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
